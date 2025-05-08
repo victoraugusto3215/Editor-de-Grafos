@@ -1,0 +1,20 @@
+H:\editor-grafos-master\Editor de Grafos\bin\Debug\Editor de Grafos.exe.config
+H:\editor-grafos-master\Editor de Grafos\bin\Debug\Editor de Grafos.exe
+H:\editor-grafos-master\Editor de Grafos\bin\Debug\Editor de Grafos.pdb
+H:\editor-grafos-master\Editor de Grafos\obj\Debug\Editor de Grafos.csproj.AssemblyReference.cache
+H:\editor-grafos-master\Editor de Grafos\obj\Debug\Editor_de_Grafos.Editor.resources
+H:\editor-grafos-master\Editor de Grafos\obj\Debug\Editor_de_Grafos.Properties.Resources.resources
+H:\editor-grafos-master\Editor de Grafos\obj\Debug\Editor de Grafos.csproj.GenerateResource.cache
+H:\editor-grafos-master\Editor de Grafos\obj\Debug\Editor de Grafos.csproj.CoreCompileInputs.cache
+H:\editor-grafos-master\Editor de Grafos\obj\Debug\Editor de Grafos.exe
+H:\editor-grafos-master\Editor de Grafos\obj\Debug\Editor de Grafos.pdb
+H:\Editor de Grafos 2025.1 ROSE(C#)\Editor de Grafos\bin\Debug\Editor de Grafos.exe.config
+H:\Editor de Grafos 2025.1 ROSE(C#)\Editor de Grafos\bin\Debug\Editor de Grafos.exe
+H:\Editor de Grafos 2025.1 ROSE(C#)\Editor de Grafos\bin\Debug\Editor de Grafos.pdb
+H:\Editor de Grafos 2025.1 ROSE(C#)\Editor de Grafos\obj\Debug\Editor de Grafos.csproj.AssemblyReference.cache
+H:\Editor de Grafos 2025.1 ROSE(C#)\Editor de Grafos\obj\Debug\Editor_de_Grafos.Editor.resources
+H:\Editor de Grafos 2025.1 ROSE(C#)\Editor de Grafos\obj\Debug\Editor_de_Grafos.Properties.Resources.resources
+H:\Editor de Grafos 2025.1 ROSE(C#)\Editor de Grafos\obj\Debug\Editor de Grafos.csproj.GenerateResource.cache
+H:\Editor de Grafos 2025.1 ROSE(C#)\Editor de Grafos\obj\Debug\Editor de Grafos.csproj.CoreCompileInputs.cache
+H:\Editor de Grafos 2025.1 ROSE(C#)\Editor de Grafos\obj\Debug\Editor de Grafos.exe
+H:\Editor de Grafos 2025.1 ROSE(C#)\Editor de Grafos\obj\Debug\Editor de Grafos.pdb
